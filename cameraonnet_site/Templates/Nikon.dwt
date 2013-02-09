@@ -1,0 +1,191 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<title>Camcorner</title>
+<link href="../CSS/camera_on_net.css" rel="stylesheet" type="text/css" />
+<script src="../js/jquery-1.7.2.min.js"></script>
+<script src="../js/lightbox.js"></script>
+<link href="../CSS/lightbox.css" rel="stylesheet" />
+</head>
+
+<body>
+<div class="C_order_contactdetails">Toll free contact no. 83910 43180 0r SMS: DWD1853N to 53535 </div>
+<div class="c_bg c_bg_list ">
+  <div class="c_logo"><img src="../images/logo.png" width="684" height="408" /></div>
+<div class="c_menubar">
+    <ul class="c_menubar_align">
+      <li>Contact</li>
+      <li>Sitemap</li>
+      <li>Purchase Form</li>
+      <li>Lenses</li>
+      <li>Brand</li>
+      <li>Home</li>
+    </ul>
+  </div>
+ 
+    <div class="c_nikon_header">
+      <div class="c_cointainer">
+        <div class="c_cam_image"> 
+          <a href="../images/nikon_images/Image_1.jpg" rel="lightbox" title="Nikon camera pictures"><img src="../images/nikon_images/Image_1.jpg" width="250" height="220" /></a>
+          <div class="c_cam_content">
+            <div style="float:left">
+              <p>Nikon point and shoot camera</p>
+              <p>Feature :EXPEED C2 image processing engine</p>
+              <p>Price :Rs.9950 Rs.9452 </p>
+              <p>
+                Model Number:5891
+              </p>
+              
+              <div>
+               <button>Purchase</button>
+                <a href="../flash/nature forest.jpg" rel="lightbox" title="Nikon camera pictures">
+                  <img src="../flash/nature forest.jpg" width="40" height="30px" />
+                </a>
+                 </div>
+              
+            </div>
+          </div>
+        </div>
+        <div class="c_cam_image"><img src="../images/nikon_images/image_2.jpg" width="250" height="220" />
+          <div class="c_cam_content">Nikon Semi SLR Camera COOLPIX
+            <p>Feature:High Speed USB,  Direct TV output</p>
+            <p>Price : Rs.23950     Rs.22752</p>
+            <p>Model Number</p>
+         
+            <button>Purchase</button>
+            <a href="../flash/Bride_hands_Groom.jpg" rel="lightbox" title="Nikon camera pictures">
+                  <img src="../flash/Bride_hands_Groom.jpg" width="40px" height="30px" />
+                </a>
+          </div>
+        </div>
+        <div class="c_cam_image"><img src="../images/nikon_images/image_3.jpg" width="250" height="220" />
+          <div class="c_cam_content">Nikon Semi SLR Camera COOLPIX
+            <p>Feature:Semi DLR, Super Zoom</p>
+            <p>Price :    Rs.23950   Rs.22752</p>
+            <p>Model:6321</p>
+         
+            <button>Purchase</button>
+            <a href="../flash/baby.jpg" rel="lightbox" title="Nikon camera pictures">
+                  <img src="../flash/baby.jpg" width="40px" height="30px" />
+                </a>
+          </div>
+        </div>
+        </div>
+         <div class="c_cointainer">
+        <div class="c_cam_image"><img src="../images/nikon_images/image_4.jpg" width="250" height="220" />
+          <div class="c_cam_content">Nikon Point and Shoot Camera
+            <P>Feature:Self timer: 10 and 2 sec</P>
+            <p>Price : Rs.14450  Rs.12000</p>
+            <p>Model Number:5643</p>
+            
+            <button>Purchase</button>
+             <a href="../flash/nature forest.jpg" rel="lightbox" title="Nikon camera pictures">
+                  <img src="../flash/nature forest.jpg" width="40" height="30px" />
+                </a>
+            
+          </div>
+        </div>
+        <div class="c_cam_image"><img src="../images/nikon_images/image_5.jpg" width="250" height="220" />
+          <div class="c_cam_content">
+            <p>Nikon Point and Shoot Camera </p>
+            <p>Feature: Intuitive touch control LCD</p>
+            <p>Price :    Rs.7950   Rs.7711</p>
+            <p>ModelNumber:5743</p>
+         
+            <button>Purchase</button>
+             <img src="../flash/Bride_hands_Groom.jpg" width="40px" height="30px" />
+                </a>
+          </div>
+        </div>
+        <div class="c_cam_image"><img src="../images/nikon_images/image_6.jpg" width="250" height="220" />
+          <div class="c_cam_content">
+            <p>Nikon DSLR D3200 (with AF-S 1 </p>
+            <p>Feature: Nikon DX-format CMOS sensor</p>
+            <p>Price :    48950 Rs. 46502</p>
+            <p>Model Number: 3465</p>
+            
+            <button>Purchase</button>
+             <a href="../flash/baby.jpg" rel="lightbox" title="Nikon camera pictures">
+                  <img src="../flash/baby.jpg" width="40px" height="30px" />
+                </a>
+          </div>
+        </div>
+        </div>
+         <div class="c_cointainer">
+         <div class="c_cam_image">
+           <blockquote>
+             <p><img src="../images/nikon_images/image_7.jpg" width="250" height="220" />
+             </p>
+           </blockquote>
+           <div class="c_cam_content">
+             <blockquote>
+               <p>Nikon DSLR D3200 (with AF-S 1 </p>
+               <p>Feature: Nikon DX-format CMOS sensor</p>
+               <p>Price :    48950</p>
+               <p>Model Number: 3466</p>
+            
+               <button>Purchase</button>
+                <a href="../flash/nature forest.jpg" rel="lightbox" title="Nikon camera pictures">
+                  <img src="../flash/nature forest.jpg" width="40" height="30px" />
+                </a>
+             </blockquote>
+           </div>
+        </div>
+        <div class="c_cam_image">
+          <blockquote>
+            <p><img src="../images/nikon_images/image_8.jpg" width="250" height="220" />
+            </p>
+          </blockquote>
+          <div class="c_cam_content">
+            <blockquote>
+              <p>Nikon DSLR D3200 (with AF-S 1 </p>
+              <p>Feature: Nikon DX-format CMOS sensor</p>
+              <p>Price :    37950</p>
+              <p>Model Number:3468</p>
+             
+              <button>Purchase</button>
+               <img src="../flash/Bride_hands_Groom.jpg" width="40px" height="30px" />
+                </a>
+            </blockquote>
+          </div>
+        </div>
+        <div class="c_cam_image">
+          <blockquote>
+            <p><img src="../images/nikon_images/image_9.jpg" width="250" height="220" />
+            </p>
+          </blockquote>
+          <div class="c_cam_content">
+            <blockquote>
+              <p>Nikon DSLR D3200 (with AF-S 1 </p>
+              <p>Feature: Nikon DX-format CMOS sensor</p>
+              <p>Price :    37950</p>
+              <p>Model Number:3473</p>
+            
+            </blockquote>
+            <blockquote>
+              <p>
+                <button>Purchase</button> 
+                 <a href="../flash/baby.jpg" rel="lightbox" title="Nikon camera pictures">
+                  <img src="../flash/baby.jpg" width="40px" height="30px" />
+                </a>           
+            </blockquote>
+          </div>
+        </div>
+         </div>
+      
+    </div>
+  </div>
+  <div class="c_footer">
+    <div class="c_footer_content"><a href="../home.html">Home</a></div>
+    <div class="c_footer_content"><a href="#">Brand</a></div>
+    <div class="c_footer_content"><a href="../lenses.html">Lenses</a></div>
+    <div class="c_footer_content"><a href="#">Purchase Form</a></div>
+    <div class="c_footer_content"><a href="#">Site Map</a></div>
+    <div class="c_footer_content"><a href="#">Contact</a></div>
+    <div class="c_footer_content c_facebook"><a href="#">Facebook</a></div>
+  </div>
+
+</body>
+</html>

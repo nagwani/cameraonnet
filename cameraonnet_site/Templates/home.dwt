@@ -1,0 +1,81 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Camcorner</title>
+<!-- TemplateEndEditable -->
+<link href="../CSS/camera_on_net.css" rel="stylesheet" type="text/css" />
+<style type="text/css"></style>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<!-- TemplateBeginEditable name="EditRegion1" -->
+<div class="c_banner">Content for  class "c_banner" Goes Here</div>
+<div class="C_order_contactdetails">To order call: 0129-4456218 (open 24Hours) or SMS HUV12WEB to 21515</div>
+
+<!-- TemplateEndEditable --><!-- TemplateBeginEditable name="EditRegion2" -->
+<div class="c_bg">
+  <div class="c_menubar">
+    
+  
+    <ul><font color="#000000">
+     
+        <li>Home</li>
+        <li>Brand</li>
+        <li>Lenses</li>
+        <li>Purchase Form</li>
+        <li>Sitemap</li>
+        <li>Contact</li></font>
+      
+    </ul>
+    
+  </div>
+  <div class="c_header">
+    <div class="c_header_image"> <img src="../images/home_page_image.png" width="950" height="300" /></div>
+  </div>
+  <div class="c_threecolumn_cointainer">
+    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="31%" height="150"><div align="center"><img src="../images/canon_model_large.jpg" width="125" height="112" align="middle" /></div></td>
+        <td width="36%"><div align="center"><img src="../images/nikon_model_large.jpg" width="125" height="112" /></div></td>
+        <td width="33%"><div align="center"><img src="../images/sony_model_large.jpg" width="125" height="112" /></div></td>
+      </tr>
+      <tr>
+        <td height="62"><p align="center"><img src="../images/canon_logo.jpeg" width="143" height="30" /></p>
+          <p align="center">EOS 5D Mark II, EOS REBEL T2i, Eos 7D,more...</p></td>
+        <td><p align="center"><img src="../images/nikon_logo.jpeg" width="143" height="30" /></p>
+          <p align="center">90,D7000,D3100,more...</p></td>
+        <td><p align="center"><img src="../images/sony_logo.jpeg" width="143" height="30" /></p>
+          <p align="center">NEX-5N,DSC-RX100,NEX-5,more...</p></td>
+      </tr>
+    </table>
+  </div>
+  <div class="c_content"><strong>
+    <h2>What factors should you consider when purchasing a digital camera?</h2>
+    </strong>
+    <p> Resolution. A camera's resolution is affected by pixel count and compression. Pixels are tiny building blocks of color in your images; the more you pixels you have, the clearer and more rich your image will be use compression to reduce your image size. While compression provides additional storage space, it reduces the quality of your image. To achieve the highest resolution, look for cameras </p>
+    <p>Exposure and light Aperture selections, shutter-speed capabilities, ISO numbers and lens latitude are important features related to light and exposure.</p>
+    <p>Aperture and shutter speed settings control how much light reach reaches the  sensor. Aperture is the device in the lens that allows more or less light. Shutter speed is a measurement of how long the shutter is open when a picture is taken. A camera with manual aperture and shutter speed settings allow for greater creative flexibility in your photography, as you can photograph in various light settings and create aperture and shutter settings typically not set by an automatic camera.</p>
+    <p>Typical aperture ranges from f2.8 (most open) to f16 (most closed). Shutter speeds from 1/30 to 1/10, 000.</p>
+    <p>ISO Numbers A camera's ISO number reflects how light-sensitive the film is. Cameras with higher ISO numbers require less light for exposures. Most digital camera's ISO numbers are between 80 and 200.</p>
+    <p>Storage Digital cameras are offering more and more storage, which, thankfully, decreases the length of time between file transfers between your camera and computer.</p>
+    <p>Hardware and software Many digital cameras come with digital photography software that allows for photo manipulation, slide show creation, and e-mail capability.</p>
+    <p>Most cameras come with USB cables that provide fast upload to your computer. </p>
+  </div>
+  <div class="c_footer">
+    <ul>
+      <li>Home</li>
+      <li>Brand</li>
+      <li>Lenses</li>
+      <li>Purchase form</li>
+      <li>Sitemap</li>
+      <li>Contact</li>
+    </ul>
+  </div>
+</div>
+<!-- TemplateEndEditable -->
+</body>
+</html>
